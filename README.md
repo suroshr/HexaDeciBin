@@ -66,8 +66,6 @@ This keeps the code short. Each base only needs two functions: one to go to deci
 
 ## Flowchart
 
-![Flowchart](HexaDeciBin_FlowChart.png)
-
 There's also a PDF version: [`HexaDeciBin_FlowChart.pdf`](HexaDeciBin_FlowChart.pdf)
 
 ## Good to know
